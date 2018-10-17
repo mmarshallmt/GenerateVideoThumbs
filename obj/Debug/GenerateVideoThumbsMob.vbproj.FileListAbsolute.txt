@@ -1,0 +1,13 @@
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\GenerateVideoThumbs.exe.config
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\GenerateVideoThumbs.exe
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\GenerateVideoThumbs.pdb
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\GenerateVideoThumbs.xml
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\Thumbnailer.dll
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\bin\Debug\Thumbnailer.pdb
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbs.Form1.resources
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbs.Resources.resources
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbsMob.vbproj.GenerateResource.Cache
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbs.exe
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbs.xml
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbs.pdb
+C:\WorkInProgress\GenerateVideoThumbsMob\GenerateVideoThumbs\obj\Debug\GenerateVideoThumbsMob.vbprojResolveAssemblyReference.cache

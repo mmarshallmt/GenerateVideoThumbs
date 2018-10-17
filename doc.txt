@@ -1,0 +1,7 @@
+Generate MOB Video thumb is a console application 
+that connect to sp_GenerateThumbnailsForVideoMOB storeprocedure.
+
+This gets all the staging Mobile creatives MPEG and generate thumbnail 
+in the source folder.
+
+The Database currently connected is ONEMT  on MT3SQL6

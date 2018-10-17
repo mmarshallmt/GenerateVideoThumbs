@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GenerateVideoThumbsMob", "GenerateVideoThumbsMob.vbproj", "{18C0A5DB-7700-494D-AC28-7DFAE45DED75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateThumbs", "..\..\GenereateThumbs\GenerateVideoThumbs\GenerateThumbs.csproj", "{89CD4F10-CD88-4185-9609-98EBF73EFBD3}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestThumbs", "..\TestThumbs\TestThumbs.vbproj", "{B8444E0B-1616-4E57-AB3D-0FFC63AC4802}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GenerateThumbsSetup", "..\GenerateThumbsSetup\GenerateThumbsSetup.vdproj", "{C3D7143D-C0A0-4ABF-8739-AA487EFE2051}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Thumbnailer", "..\ThumbnailLib\Thumbnailer.vbproj", "{2BB7F120-456B-4D09-BD39-66D412BA31C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C0A5DB-7700-494D-AC28-7DFAE45DED75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C0A5DB-7700-494D-AC28-7DFAE45DED75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C0A5DB-7700-494D-AC28-7DFAE45DED75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C0A5DB-7700-494D-AC28-7DFAE45DED75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CD4F10-CD88-4185-9609-98EBF73EFBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CD4F10-CD88-4185-9609-98EBF73EFBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CD4F10-CD88-4185-9609-98EBF73EFBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CD4F10-CD88-4185-9609-98EBF73EFBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8444E0B-1616-4E57-AB3D-0FFC63AC4802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8444E0B-1616-4E57-AB3D-0FFC63AC4802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8444E0B-1616-4E57-AB3D-0FFC63AC4802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8444E0B-1616-4E57-AB3D-0FFC63AC4802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D7143D-C0A0-4ABF-8739-AA487EFE2051}.Debug|Any CPU.ActiveCfg = Debug
+		{C3D7143D-C0A0-4ABF-8739-AA487EFE2051}.Release|Any CPU.ActiveCfg = Release
+		{2BB7F120-456B-4D09-BD39-66D412BA31C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB7F120-456B-4D09-BD39-66D412BA31C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB7F120-456B-4D09-BD39-66D412BA31C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB7F120-456B-4D09-BD39-66D412BA31C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
